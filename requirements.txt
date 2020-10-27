@@ -26,7 +26,7 @@ conda==4.8.3
 conda-build==3.18.11
 conda-package-handling==1.7.0
 conda-verify==3.4.2
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.19
 decorator==4.4.2
