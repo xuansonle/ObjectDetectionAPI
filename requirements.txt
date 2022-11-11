@@ -116,7 +116,7 @@ pyOpenSSL==19.1.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
 PySocks==1.7.1
-pyspark==2.4.4
+pyspark==3.2.2
 python-dateutil==2.8.0
 pytz==2020.1
 PyYAML==5.3.1
